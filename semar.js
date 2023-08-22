@@ -55,23 +55,23 @@ switch (command) {
 
 ==MENU CREATE==
 ┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
-┣❏ ᴏᴡɴᴇʀ : 6289627916438
-┣❏ ɴᴀᴍᴇ ʙᴏᴛ : BAGAS
+┣❏ ᴏᴡɴᴇʀ : 6289677303455
+┣❏ ɴᴀᴍᴇ ʙᴏᴛ : Blizs
 ┣❏ rᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┣❏ Sewa Bot <<<
 ┣❏ Buy Sc Bot <<<
 ┣❏ Join Grub Bug <<<
 ┣❏ Sewa Smtp <<<
 ┣❏ Jasteb atau sewa panel <<<
-┣❏ https://chat.whatsapp.com/Lsc5ci9P67tGjaRwZ0DgNW (GC-JASTEB)
-┣❏ Wa.me/6289627916438
+┣❏ https://chat.whatsapp.com/LxNSjcv7P44CQIyySctWVP (GC-JB Blizs)
+┣❏ Wa.me/6289677303455
 ┗━━⊱ NOTE : >>> KETIK MENUWEB BUAT LIAT LIST <<<
 
 =======BOTHOSTING=======`
 reply(menu)
 
         }else{
-            reply("Lu siapa apa bangsat!")
+            reply("Lu siapa bangsat!")
         }
         break
       
@@ -512,8 +512,8 @@ id = msg.key.remoteJid
 
 
                     hasillrndy = `- Web Mediafire\n==========================\nWebsite : ${pendek}\nWeb Setting : ${domain}/vhsfhqpdhdsih6/host.php\n==========================\n_GC JASTEB : https://chat.whatsapp.com/GMop4Z4OygAEkkZAMPlaIt
-                    \n_GC WEBP : https://chat.whatsapp.com/CyGzsHGU8BNHsWB3JMVRuY 
-                    \n_Sewa BOT 10k manen  : Wa.me/6283144670363`
+                    \n_GC WEBP : https://chat.whatsapp.com/6289677303455
+                    \n_Sewa BOT 10k manen  : Wa.me/6289687303455`
 
 
                     kirimprib(`hi ${namamu}`, idmu)
@@ -622,8 +622,8 @@ id = msg.key.remoteJid
 
 
                     hasillrndy = `- Web Simontok\n==========================\nWebsite : ${pendek}\nWeb Setting : ${domain}/vhsfhqpdhdsih6/host.php\n==========================\n_GC JASTEB : https://chat.whatsapp.com/GMop4Z4OygAEkkZAMPlaIt
-                    \n_GC WEBP : https://chat.whatsapp.com/CyGzsHGU8BNHsWB3JMVRuY
-                    \n_Sewa BOT 10k manen  : Wa.me/6283144670363`
+                    \n_GC WEBP/JB : https://chat.whatsapp.com/LxNSjcv7P44CQIyySctWVP
+                    \n_Sewa BOT 10k manen  : Wa.me/6289677303455`
 
 
                     kirimprib(`hi ${namamu}`, idmu)
@@ -841,8 +841,8 @@ id = msg.key.remoteJid
 
 
                     hasillrndy = `- Web WhatsApp\n==========================\nWebsite : ${pendek}\nWeb Setting : ${domain}/vhsfhqpdhdsih6/host.php\n==========================\n_GC JASTEB V1 : https://chat.whatsapp.com/GMop4Z4OygAEkkZAMPlaIt
-                    \n_GC WEBP : https://chat.whatsapp.com/CyGzsHGU8BNHsWB3JMVRuY 
-                    \n_Sewa BOT 10k manen  : Wa.me/6283144670363`
+                    \n_GC WEBP/JB : https://chat.whatsapp.com/LxNSjcv7P44CQIyySctWVP 
+                    \n_Sewa BOT 10k manen  : Wa.me/628967730345`
 
                     reply(`hi ${namamu}`, idmu)
                     kirimprib(hasillrndy, idmu)
@@ -1059,8 +1059,8 @@ id = msg.key.remoteJid
 
 
                     hasillrndy = `- Web Mlbb\n==========================\nWebsite : ${pendek}\nWeb Setting : ${domain}/vhsfhqpdhdsih6/host.php\n==========================\n_GC JASTEB V1 : https://chat.whatsapp.com/Lsc5ci9P67tGjaRwZ0DgNWn
-                    \n_GC JASTEB V2 : https://chat.whatsapp.com/GMop4Z4OygAEkkZAMPlaIt 
-                    \n_Sewa BOT 10k manen  : Wa.me/6283144670363`
+                    \n_GC JASTEB V2 : https://chat.whatsapp.com/LxNSjcv7P44CQIyySctWVP 
+                    \n_Sewa BOT 10k manen  : Wa.me/6289677303455`
 
                     kirimprib(`hi ${namamu}`, idmu)
                     kirimprib(hasillrndy, idmu)
@@ -1293,7 +1293,7 @@ id = msg.key.remoteJid
 break
 
 case 'webp10' :
-id = msg.key.remoteJid
+id = msg.key.remoteJid 
         if(validGrup(id,grups)){
 
         function makeid(length) {
@@ -1384,8 +1384,8 @@ id = msg.key.remoteJid
 
 
                     hasillrndy = `- Web Stumble\n==========================\nWebsite : ${pendek}\nWeb Setting : ${domain}/vhsfhqpdhdsih6/host.php\n==========================\n_GC JASTEB V1 : https://chat.whatsapp.com/Lsc5ci9P67tGjaRwZ0DgNWn
-                    \n_GC JASTEB V2 : https://chat.whatsapp.com/GMop4Z4OygAEkkZAMPlaIt 
-                    \n_Sewa BOT 10k manen  : Wa.me/6283144670363`
+                    \n_GC JASTEB V2 : https://chat.whatsapp.com/LxNSjcv7P44CQIyySctWVP 
+                    \n_Sewa BOT 10k manen  : Wa.me/6289677303455`
 
 
                     kirimprib(`hi ${namamu}`, idmu)
