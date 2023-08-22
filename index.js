@@ -11,8 +11,8 @@ nocache('./semar.js', module => console.log(`"${module}" Updated!`))
 semar.ev.on('messages.upsert', async denz => {
 if (!denz.messages) return
 msg = denz.messages[0]
-nomorOwner = ['6283144670363','6283144670363']
-nomorDeveloper = ['6283144670363']
+nomorOwner = ['6289677303455','6289677303455']
+nomorDeveloper = ['629677303455']
 semar.sendPresenceUpdate('unavailable')
 require("./semar")(semar, denz, msg)})
 
